@@ -147,7 +147,7 @@ next_page() # wait for webpage
 pg.click(x=203, y=254)
 pg.press('tab',presses=3)
 time.sleep(0.1)
-pg.typewrite('jn ldsr - mhrbrt') 	# access code
+pg.typewrite('mhrbrt') 	# access code
 pg.press('tab',presses=3)
 time.sleep(0.1)
 pg.press('space',presses=2,interval=0.5)

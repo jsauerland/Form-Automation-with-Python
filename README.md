@@ -4,11 +4,13 @@ While practicing data analysis and programming, there was a particular form that
 
 So to save time, I automated it with Python using the package PyAutoGUI
 
+#### Version 1 - form-automation-version-1.0.py
 
+This was the initial version of the script. This was my first pass at the script, and admittedly, was a relic of a much older script I had used years prior when I barely knew any python. 
 
-#### Version 1 - form-automation.py
+#### Version 2 - form-automation-version-1.1.py
 
-This first version was the original, initial version of the automation script in Python. It was relatively simple, but verbose and needed improvement. 
+This second version was the original, initial version of the automation script in Python. It was a major step up above the previous one due to the addition of functions that saved space, and drastically increased code readability. 
 
 ```
 pg.press('m') # Question
@@ -54,7 +56,7 @@ time.sleep(0.1)
 next_page()
 ```
 
-#### Version 2 - form-automation-enhanced.py
+#### Version 3 - form-automation-version-1.2.py
 
 This second version was included many enhancements, such as a list that I could loop through, which made the code a lot more readable. Anytime the script broke or something was out of place, or I needed to simply add extra steps, this made it a LOT EASIER. Adding the enhancements saved about 30% additional time, and even saved me from making a couple of errors. I also added some extra fancy things into it like lambdas because functionally, they just work a lot better. 
 

@@ -4,7 +4,7 @@ While practicing data analysis and programming, there was a particular form that
 
 So to save time, I automated it with Python using the package PyAutoGUI
 
-#### Version 1 - form-automation-version-1.0.py
+#### Version 1 - form-automation-version-1.0
 
 This was the initial version of the script. This was my first pass at the script, and admittedly, was a relic of a much older script I had used years prior when I barely knew any python. 
 

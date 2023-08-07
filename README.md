@@ -60,7 +60,7 @@ next_page()
 
 This second version was included many enhancements, such as a list that I could loop through, which made the code a lot more readable. Anytime the script broke or something was out of place, or I needed to simply add extra steps, this made it a LOT EASIER. Adding the enhancements saved about 30% additional time, and even saved me from making a couple of errors. I also added some extra fancy things into it like lambdas because functionally, they just work a lot better. 
 
-```
+``` 
 actions_list = [
     lambda: press_key('m'),               # Question
     next_item,
